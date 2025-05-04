@@ -1,6 +1,7 @@
 na 3 mecze do końca, śląsk musi nadrobić 6 punktów do zagłębia
 
 pozostałe mecze do rozegrania:
+### Pierwsza kolejka  
 
 Śląsk - Górnik  
 ```
@@ -18,7 +19,7 @@ zagleb_probs = {
     "lose": (1 - 0.44 - 0.27, 0),
 }
 ```
-Druga kolejka
+### Druga kolejka
 Śląsk - Jagiellonia
 ```
 slask2_probs = {
@@ -35,7 +36,7 @@ zagleb2_probs = {
     "lose": (1 - 0.20 - 0.30, 0),
 }
 ```
-Trzecia kolejka
+### Trzecia kolejka
 Śląsk - Puszcza
 ```
 slask3_probs = {
