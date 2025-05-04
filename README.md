@@ -17,8 +17,8 @@ Zagłębie - Widzew
 }
 ```
 Druga kolejka
-```Śląsk - Jagiellonia
-slask2_probs = {
+Śląsk - Jagiellonia
+```slask2_probs = {
     "win": (0.10, 3),
     "draw": (0.30, 1),
     "lose": (1 - 0.10 - 0.30, 0),
